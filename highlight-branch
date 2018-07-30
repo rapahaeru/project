@@ -8,5 +8,4 @@ else
 fi
 
 
-Não esquecer de comentar o 
-unset color_prompt force_color_prompt
+Não esquecer de comentar o "unset color_prompt force_color_prompt"
